@@ -1,6 +1,12 @@
-# Digital-Privacy-Basics
+# Digigène 
 
-In the first part of the workshop we will discuss different aspects of digital privacy. We will take a look at the daily things of today's connected life, from search engines to messenger apps to email traffic, and look at who collects what data, where, how and for what purpose. In the second part of the workshop we will playfully explore how mobile phones track our position and use the Geneva as our drawing canvas. 
+Living in a pandemic, our sanitary behavior had to adapt these past two years: sanitizing our hands multiple times per day, waring masks and keeping our distance. We integrated these routines for our hygiene to protect ourselves and others and applied this to our immediate surrounding. In consequence of the distance, we increased the usage of our screens around us. 
+
+But do we ever keep our digital self clean? What could be digital hygiene (short, digigène)? How can we cleanse our digital aura? Explore with us the role of data and what it tells about our lives, why it is worth so much money, the principle of data economy and why data is political.
+
+In the first part of the workshop we will discuss different aspects of digital privacy. We will take a look at the daily things of today's connected life, from search engines to messenger apps to email traffic, and look at who collects what data, where, how and for what purpose. In the second part of the workshop we will playfully explore how mobile phones track our position and use the Geneva as our drawing canvas.
+
+Starting time: 14:00 and 15:30 at the île de Rousseau, Geneva
 
 ## Part 1
 
